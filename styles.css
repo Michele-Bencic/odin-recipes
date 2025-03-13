@@ -1,0 +1,29 @@
+
+
+
+
+
+#title {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+    font-size: 500%;
+}
+
+.menu {
+    font-size: 200%;
+    color: black;
+    padding: 0;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
